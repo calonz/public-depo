@@ -20,3 +20,7 @@ Instafel tries to offer you as simple and customizable experience as possible. Y
 As we stated in the TOS (Terms of Policy), Instafel does not collect any information about you, including personalization. Your problem of not being able to access your account is not related to Instafel, it's because you broke Instagram's community guidelines. Please understand your mistakes before complaining about the application.
 
 No Instagram modification will give you security. These fall under the category of 'Risky' applications, as Instagram states. Turning on very experimental features may cause you to be warned or blocked.
+
+### Why don't you show the source code?
+
+As the Instafel team, we strive to develop the application in the simplest, most optimized and calm way. But some developers are trying to install trojan software by changing the source code of the projects / indirectly by having the devices load the modified code. As a precaution, Instafel shares all source code except 'Instafel Features'.
