@@ -24,3 +24,19 @@ No Instagram modification will give you security. These fall under the category 
 ## Why don't you show the source code?
 
 As the Instafel team, we strive to develop the application in the simplest, most optimized and calm way. But some developers are trying to install trojan software by changing the source code of the projects / indirectly by having the devices load the modified code. As a precaution, Instafel shares all source code except 'Instafel Features'.
+
+Also, because we work for Instafel, we are tired of people compile the source code and say 'my project'. That's why we don't feel the need to share. But you want to compare the APK file to detect changes in the codes.
+
+## What are its features?
+
+- The app has been updated with the Material You design!
+- Uploading clearer, higher quality images & videos.
+- Early experience of new features.
+- Secure your Instagram app with biometric protection.
+- Seeing a lot of data such as statistical information, unfollowed friends.
+- Navigate like a ghost.. (ssssh)
+- Customizable interface, change or replace icons!
+- Level up with modern icons and designs!
+
+And many more features are waiting for you on Instafel!
+
