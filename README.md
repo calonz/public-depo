@@ -4,12 +4,13 @@ Instafel is a customized modification for Instagram. The output purpose is to en
 
 | **Channel Tag** | **Build Info** |
 | ------------- | ------------- |
-| release  | `22.1.0.2 (stable.220920665)`  |
-| pre-rel  | `22.1.0.3 (prel.220920667)` |
-| beta     | `22.1.0.3 (beta.220920669)` |
-| alpha    | `22.1.0.5 (alpha.220921672)` |
-| dev      | `22.1.1.2 (dev.latest)` |
+| release  | `22.1.0.0 (stable.220920665)`  |
+| pre-rel  | `22.1.0.1 (prel.220920667)` |
+| beta     | `22.1.0.1 (beta.220920669)` |
+| alpha    | `22.1.0.2 (alpha.220921672)` |
+| dev      | `22.dev (dev.latest)` |
 
+> DEV Channel is not available now!
 
 ## What is Instafel?
 
